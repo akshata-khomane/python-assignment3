@@ -1,7 +1,7 @@
 def displayStudent(name, age):
     print(name, age)
 
-displayStudent("Emma", 26)
+displayStudent("Eddy", 21)
 
 showStudent = displayStudent
-showStudent("Emma", 26)
+showStudent("Eddy", 21)
